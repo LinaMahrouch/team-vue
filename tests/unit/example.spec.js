@@ -1,12 +1,21 @@
 import { shallowMount } from '@vue/test-utils'
-import HelloWorld from '@/components/HelloWorld.vue'
+import Navbar from '@/components/Navbar'
+import parentView from '@/views/parentView'
 
-describe('HelloWorld.vue', () => {
+describe('Navbar.vue', () => {
   it('renders props.msg when passed', () => {
     const msg = 'new message'
-    const wrapper = shallowMount(HelloWorld, {
+    const wrapper = shallowMount(Navbar, {
       props: { msg }
     })
-    expect(wrapper.text()).toMatch(msg)
+    //expect(wrapper.text()).toMatch(msg)
+  })
+})
+
+describe('parentView', () => {
+  // Inspect the raw component options
+  it('has data', () => {
+    expect(typeof parentView.data).toBe('function')
+    
   })
 })

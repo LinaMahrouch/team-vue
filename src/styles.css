@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+body{
+    font-family: 'Ubuntu', sans-serif !important;
+    background-color:#ffe7f7 !important; 
+}
+.employee-img{
+    width: 118px;
+    border-radius: 50%;
+}
+    
+.employee-img-big{
+    width: 220px;
+    border-radius:50%;
+}
+.button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #018a61;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(245, 225, 225);
+  }
+
+  .disabledButton{
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #018a61;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(245, 225, 225);
+
+  }
+  
+  .button:hover {background-color: #3e8e41}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px rgb(235, 222, 222);
+    transform: translateY(4px);
+  }
+
