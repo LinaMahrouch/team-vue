@@ -1,4 +1,5 @@
-# team-vue
+# Team-Vue
+A simple Team Management App made with VueJs3
 
 ## Project setup
 ```
