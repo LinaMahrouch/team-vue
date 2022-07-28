@@ -3,39 +3,39 @@
     {
       "id": "Dhfuhedu",
       "name": "Lina Mahrouch",
-      "equipe": "GTA",
-      "mail": "lina.mahrouch@cegedim.com",
-      "gestionnaire": "wahbi lotfi",
-      "title": "Stagiaire",
+      "equipe": "Devops",
+      "mail": "linamh@mail.com",
+      "gestionnaire": "Omar Cr",
+      "title": "Software engineering",
       "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXKGdKZxjWDJatds7-fvxpBzQe0fc8ON3Pw&usqp=CAU",
       "groupId": "3"
     },
     {
       "id": "Dhfuhedy",
-      "name": "Lotfi Wahbi",
-      "equipe": "GTA",
-      "mail": "lotfi.wahbi@cegedim.com",
-      "gestionnaire": "El kalda",
+      "name": "Kevin K",
+      "equipe": "Software Egineering",
+      "mail": "kevink@mail.com",
+      "gestionnaire": "Omar Cr",
       "title": "Chef de projet ",
       "photo": "https://i.pinimg.com/originals/72/cd/96/72cd969f8e21be3476277d12d44c791c.png",
       "groupId": "3"
     },
     {
       "id": "Dhfuhedc",
-      "name": "Mourad Ghaich",
-      "equipe": "GTA",
-      "mail": "mourad.ghaich@cegedim.com",
-      "gestionnaire": "wahbi lotfi",
-      "title": "Ingénieur Etude et développement/Team Lead Gta",
+      "name": "Antoinne KR",
+      "equipe": "Software Egineering",
+      "mail": "antoinnekr@mail.com",
+      "gestionnaire": "Omar Cr",
+      "title": "Ingénieur Etude et développement/Team Lead",
       "photo": "https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png",
       "groupId": "3"
     },
     {
       "id": "Dhfuhedx",
-      "name": "Amine Choukri",
-      "equipe": "GTA",
-      "mail": "amine.choukri@cegedim.com",
-      "gestionnaire": "wahbi lotfi",
+      "name": "Amine Ht",
+      "equipe": "UI/Ux Design",
+      "mail": "amineht@mail.com",
+      "gestionnaire": "Omar Cr",
       "title": "Ingénieur Etude et développement",
       "photo": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
       "groupId": "3"
@@ -44,19 +44,23 @@
   "groups": [
     {
       "id": "1",
-      "name": "GTA"
+      "name": "Web dev"
     },
     {
       "id": "2",
-      "name": "refonte"
+      "name": "Software Engineering"
     },
     {
       "id": "3",
-      "name": "devops"
+      "name": "Devops"
     },
     {
       "id": "4",
-      "name": "onboarding"
+      "name": "UI/UX Design"
+    },
+    {
+      "id": "5",
+      "name": "Machine Learning"
     }
   ]
 }

@@ -1,12 +1,21 @@
 <template>
+<div class="container">
+
+
 <div class="container  d-flex align-items-center justify-content-center" >
   <div class="col-md-12 text-center ">
   <div class="child">{{ name }}
+
+  </div>
+  </div>
  
   </div>
+ 
+   <div class="col">
+ <button class="btn btn-dark" @click="$emit('btn-click')">Click me</button>
+ </div>
   </div>
-  
-  </div>
+
 </template>
 
 <script>
@@ -19,7 +28,9 @@ export default {
   },
   watch: { // It listens to the change in prop name
     name: function () {
-      console.log("name change"); // print out when the name changes
+      console.log("name change"); 
+      // print out when the name changes
+      
     },
   },
 };

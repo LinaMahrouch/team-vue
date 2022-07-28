@@ -7,6 +7,8 @@ import ViewEmployee from "@/views/ViewEmployee"
 import PageNotFound from "@/views/PageNotFound";
 import childProp from "@/views/childProp";
 import parentView from "@/views/parentView";
+import buttonMix from "@/views/buttonMix";
+import buttonMixx from "@/views/buttonMixx";
 
 const routes = [
   {
@@ -46,6 +48,18 @@ const routes = [
     name: 'childProp',
     
     component: childProp
+  },
+  {
+    path: '/button1',
+    name: 'buttonMix',
+    
+    component: buttonMix
+  },
+  {
+    path: '/button2',
+    name: 'buttonMixx',
+    
+    component: buttonMixx
   },
   {
     path: '/parent',

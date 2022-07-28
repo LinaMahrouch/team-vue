@@ -4,7 +4,7 @@
     <div class="row">
       <div class="col">
         <p class="h3 my-3 text-success fw-bold">Consulter profil</p>
-        <p>Obtenir des informations sur le salarié concerné!</p>
+        <p>Obtenir des informations sur votre employé!</p>
       </div>
     </div>
   </div>
