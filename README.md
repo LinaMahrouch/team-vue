@@ -6,10 +6,7 @@
 # Application Architecture
 ![team-vue](https://user-images.githubusercontent.com/109791074/181660370-190ce7e3-1837-4809-bc07-329e21270c1a.png)
 
-# Demo.
-```
-Here is a small demo of my application:
-https://team-vue-elinacodes.netlify.app/
+
 ```
 
 # Improvements.
