@@ -1,30 +1,26 @@
-# Team-Vue
-A simple Team Management App made with VueJs3
+# Team-Vue.
+![image](https://user-images.githubusercontent.com/109791074/181658106-599596ee-d013-4a5b-b711-3451b87128aa.png)
 
-## Project setup
-```
-npm install
-```
+-Team-Vue is a simple Team Management App made with Vue3, where you can manage your team members by adding, displaying, editing and deleting your employees.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Application Architecture
+![team-vue](https://user-images.githubusercontent.com/109791074/181660370-190ce7e3-1837-4809-bc07-329e21270c1a.png)
 
-### Compiles and minifies for production
+# Demo.
 ```
-npm run build
+Here is a small demo of my application:
+https://team-vue-elinacodes.netlify.app/
 ```
 
-### Run your unit tests
+# Improvements.
+Things I'll be working later on to improve the app:
 ```
-npm run test:unit
-```
+  1-Mark and visualize the employee's working time.
+  2-Organize employee's work from home schedule using random cards.
+ ```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+
