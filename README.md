@@ -7,7 +7,6 @@
 ![team-vue](https://user-images.githubusercontent.com/109791074/181660370-190ce7e3-1837-4809-bc07-329e21270c1a.png)
 
 
-```
 
 # Improvements.
 Things I'll be working later on to improve the app:
