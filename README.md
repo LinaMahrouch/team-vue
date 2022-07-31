@@ -11,8 +11,8 @@
 # Improvements.
 Things I'll be working later on to improve the app:
 ```
-  1-Mark and visualize the employee's working time.
-  2-Organize employee's work from home schedule using random cards.
+  1-Mark and visualize the employees working time.
+  2-Organize employees' work from home schedule using random cards.
  ```
 
 
